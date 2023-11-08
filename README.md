@@ -14,9 +14,9 @@
 
 ## 📝 Blogs 博客
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal website and blog: https://proders.github.io/blogs
+- Notes of AWS Solution Architecture - Associate: 
+- [WIP] LeetCode Solutions & Notes: 
 
 ### 📔 Latest Blog posts 最新文章
 
