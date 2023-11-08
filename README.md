@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=proder.proder)
 [![开源项目](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
+- 🔭 我是一名前端开发人员。
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **Go, Git and Python**
 - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
