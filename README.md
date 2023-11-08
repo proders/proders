@@ -3,25 +3,13 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=proder.proder)
 [![开源项目](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/javascript
-# -*- coding: utf-8 -*-
+- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 💬 Ask me about **Go, Git and Python**
+- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- ⚡ Fun fact: Big Fan of the :zap: emoji
 
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Peng GUO DON"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
+-------
 
 ## 📝 Blogs 博客
 
