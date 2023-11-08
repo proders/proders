@@ -40,10 +40,10 @@
 
 **Programming Languages 编程语言:**
 
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![html](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![javascript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![css](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
+![react](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
