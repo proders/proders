@@ -1,19 +1,19 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=proder.proder)
+[![开源项目](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/javascript
 # -*- coding: utf-8 -*-
 
 
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Peng GUO DON"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["zh_CN"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -23,13 +23,13 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
+## 📝 Blogs 博客
 
 - Personal website and blog: https://zhenye-na.github.io/
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
-### 📔 Latest Blog posts
+### 📔 Latest Blog posts 最新文章
 
 <!-- BLOG-POST-LIST:START -->
 - [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
