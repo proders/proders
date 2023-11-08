@@ -41,8 +41,9 @@
 **Programming Languages 编程语言:**
 
 ![html](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
-![javascript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![css](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
+![javascript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![vue](https://img.shields.io/badge/Code-vue-informational?style=flat&logo=vue&logoColor=white&color=6aa6f8)
 ![react](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
