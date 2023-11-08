@@ -3,11 +3,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=proder.proder)
 [![开源项目](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🔭 我是一名前端开发人员。
-- 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- 🔭 我是一名具有一年经验的前端开发人员.
+- 🌱 我的兴趣爱好：羽毛球、乒乓球、骑行、徒步、旅行.
+- 💬 我的性格： 沉稳、乐观、积极向上.
+- 📫 How to reach me: no
 - ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🛠   I’m currently working with JS, TS.
 
 -------
 
