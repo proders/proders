@@ -5,7 +5,7 @@
 
 - 🔭 我是一名前端开发人员.
 - 💬 我的性格：沉稳、乐观、积极向上.
-- 🌱 我的兴趣爱好：羽毛球、乒乓球、骑行、徒步、旅行.
+- 🌱 我的兴趣爱好：动漫、羽毛球、乒乓球、骑行、徒步、旅行.
 - 📫 How to reach me: no
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 - 🛠   I’m currently working with JS, TS.
